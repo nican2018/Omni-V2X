@@ -24,7 +24,7 @@ Traditional methods (see following figure) focus on single-frame onboard feature
 
 ## 📰 News
 
-- **11/29/2024**: The Omni-V2X model achieves new benchmarks in actionable insights for collaborative autonomous driving.
+- **11/29/2024**: We release Omni-V2X.
 
 ---
 
@@ -56,7 +56,6 @@ Traditional methods (see following figure) focus on single-frame onboard feature
   - Multiview and cross-view attention for spatial alignment.
   - Modular and parameter-efficient architecture for scalability.
   - Enhanced interpretability for autonomous driving scenarios.
-
 
 ---
 
@@ -102,14 +101,6 @@ If you are using our Omni-V2X framework for your research, please cite the follo
   journal={Computer Vision and Image Understanding},
   year={2024},
   url={https://ssrn.com/abstract=5038210}
-}
-
-@inproceedings{dair-v2x,
-  title={Dair-v2x: A large-scale dataset for vehicle-infrastructure cooperative 3d object detection},
-  author={Yu, Haibao and Luo, Yizhen and Shu, Mao and Huo, Yiyi and Yang, Zebang and Shi, Yifeng and Guo, Zhenglong and Li, Hanyu and Hu, Xing and Yuan, Jirui and Nie, Zaiqing},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={21361--21370},
-  year={2022}
 }
 
 🤝 Acknowledgments
