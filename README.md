@@ -10,6 +10,9 @@
 </div>
 
 ---
+<p align="center">
+  <img src="images/omni-v2x.png" width="600" alt="Omni-V2X Overview" />
+</p>
 
 
 ---
