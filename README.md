@@ -11,9 +11,6 @@
 
 ---
 
-<p align="center">
-  <img src="images/omni-v2x.png" width="600" alt="Omni-V2X Overview" />
-</p>
 
 ---
 Traditional methods (see following figure) focus on single-frame onboard feature fusion for object detection or tracking, limiting their interpretability. In contrast, Omni-V2X incorporates cooperative features from multiple perspectives alongside driving context, enabling interpretable and actionable insights through a vision-language model while maintaining object detection capabilities.
