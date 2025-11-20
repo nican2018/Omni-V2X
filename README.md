@@ -5,7 +5,7 @@
   Cooperative perception in autonomous driving enhances situational awareness by sharing multi-modal sensor data through Vehicle-to-Everything (V2X) communication. However, challenges like bandwidth limitations, computational constraints, and data heterogeneity hinder its adoption. This paper presents Omni-V2X, a vision-language framework that generates real-time, actionable scene descriptions by fusing multi-view images and driving context. Omni-V2X employs a spatially-aware cross-view attention mechanism and parameter-efficient processing, enabling deployment on in-vehicle edge computing units. It shares concise insights for navigation and decision-making, such as object detection and obstacle awareness. Experimental results on the DAIR-V2X-C dataset demonstrate state-of-the-art performance with ROUGE 55.3, BLEU 42.8, and AP 72.4, while maintaining low latency. The modular design ensures scalability and future integration with LiDAR and other modalities. This work advances robust, scalable, and context-aware cooperative perception for autonomous driving.
   </p>
   <div>&nbsp;</div>
-  <p><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5038210"><strong>Read the paper here</strong></a></p>
+  <p><a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5038210](https://ieeexplore.ieee.org/document/11228491)"><strong>Read the paper here</strong></a></p>
   <div>&nbsp;</div>
 </div>
 
@@ -95,13 +95,17 @@ traffic environments, such as intersections and multi-lane roads. For more detai
 If you are using our Omni-V2X framework for your research, please cite the following paper:
 
 ```bibtex
-@article{OmniV2X2024,
-  title={Omni-V2X: A Vision-Language Model for Actionable Insights in Vehicle-to-Everything Systems},
-  author={Mayumu, Nicanor and Xiaoheng, Deng and Mukala, Patrick and Khan, Saif Ur Rehman and Usman, Muhammad},
-  journal={Computer Vision and Image Understanding},
-  year={2024},
-  url={https://ssrn.com/abstract=5038210}
-}
+@INPROCEEDINGS{11228491,
+  author={Mayumu, Nicanor and Xiaoheng, Deng and Mukala, Patrick and Khan, Saif Ur Rehman and Saeed, Muhammad Usman},
+  booktitle={2025 International Joint Conference on Neural Networks (IJCNN)}, 
+  title={Omni-V2X: A Vision-Language Model for Actionable Insights in Vehicle-to-Everything Systems}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-8},
+  keywords={Laser radar;Navigation;Scalability;Decision making;Object detection;Computer architecture;Safety;Vehicle dynamics;Vehicle-to-everything;Autonomous vehicles;Cooperative Perception;Multi-View image;Vehicle-to-Everything Systems;Vision-Language Models;Scene Understanding},
+  doi={10.1109/IJCNN64981.2025.11228491}}
+
 
 🤝 Acknowledgments
 This work was supported by the National Natural Science Foundation of China Project (62172441, 62172449). The authors thank the High Performance Computing Center of Central South University for providing computational resources utilized in this study. 
