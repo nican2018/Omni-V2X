@@ -5,7 +5,7 @@
   Cooperative perception in autonomous driving enhances situational awareness by sharing multi-modal sensor data through Vehicle-to-Everything (V2X) communication. However, challenges like bandwidth limitations, computational constraints, and data heterogeneity hinder its adoption. This paper presents Omni-V2X, a vision-language framework that generates real-time, actionable scene descriptions by fusing multi-view images and driving context. Omni-V2X employs a spatially-aware cross-view attention mechanism and parameter-efficient processing, enabling deployment on in-vehicle edge computing units. It shares concise insights for navigation and decision-making, such as object detection and obstacle awareness. Experimental results on the DAIR-V2X-C dataset demonstrate state-of-the-art performance with ROUGE 55.3, BLEU 42.8, and AP 72.4, while maintaining low latency. The modular design ensures scalability and future integration with LiDAR and other modalities. This work advances robust, scalable, and context-aware cooperative perception for autonomous driving.
   </p>
   <div>&nbsp;</div>
-  <p><a href="[https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5038210](https://ieeexplore.ieee.org/document/11228491)"><strong>Read the paper here</strong></a></p>
+  <p><a href="https://ieeexplore.ieee.org/document/11228491"><strong>Read the paper here</strong></a></p>
   <div>&nbsp;</div>
 </div>
 
